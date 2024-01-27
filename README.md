@@ -53,6 +53,6 @@ The Plant Disease Detection Model relies on the following libraries and framewor
 
 ## Contact Information
 
-For questions, issues, or feedback, please contact dheerajqm@gmail.com
+For questions, issues, or feedback, please contact akash888215@gmail.com
 
 Happy Plant Disease Detection!
