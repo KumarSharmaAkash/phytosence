@@ -44,6 +44,11 @@ The Plant Disease Detection Model relies on the following libraries and framewor
 - Pillow (PIL)
 - React (for the website frontend).
 - NodeJs, Express, MongoDB(for the website backend).
+  ## Run Code
+  -Intall node.js
+  
+  After clone this repo..
+  -npm run dev
 
 
 ## Acknowledgments
